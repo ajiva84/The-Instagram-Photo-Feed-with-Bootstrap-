@@ -1,0 +1,22 @@
+.borderformodal {
+
+    border: 1px solid black;
+    margin-right:90%;
+   
+}
+
+.card {
+
+    width: 450px;
+}
+
+.container-background {
+
+    background: gray;
+}
+
+.card-header-row {
+
+    margin-bottom: -20px;
+    margin-top: -10px;
+}
